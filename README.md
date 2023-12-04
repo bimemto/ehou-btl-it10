@@ -11,7 +11,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation 
 
-## Back-end
+### Back-end
 Follow these steps to install the project:
 
 1. Clone the repository:
@@ -51,7 +51,7 @@ To run this project, use the following command:
 ```
 This will start the server at http://localhost:3002
 
-## Front-end
+### Front-end
 
 ## Prerequisites
 
