@@ -7,6 +7,7 @@ Bài tập lớn môn IT10.
 Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of [Node.js and npm](https://nodejs.org/en/download/).
+- You have installed the latest version of [Flutter](https://flutter.dev/docs/get-started/install).
 - You have a Windows/Linux/Mac machine.
 
 ## Installation 
@@ -52,13 +53,6 @@ To run this project, use the following command:
 This will start the server at http://localhost:3002
 
 ### Front-end
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- You have installed the latest version of [Flutter](https://flutter.dev/docs/get-started/install).
-- You have a Windows/Linux/Mac machine.
 
 1. Navigate to the project directory:
 ```bash 
