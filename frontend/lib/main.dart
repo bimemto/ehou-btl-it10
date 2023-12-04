@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:frontend/clothes/clothes_page.dart';
 import 'package:frontend/customers/customers_page.dart';
 import 'package:frontend/employees/employees_page.dart';
+import 'package:frontend/receipt/receipts_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -73,11 +74,11 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: IndexedStack(
         index: currentTab,
-        children: <Widget>[
-          const ClothesPage(),
-          const CustomersPage(),
-          const EmployeesPage(),
-          Container(),
+        children: const <Widget>[
+          ClothesPage(),
+          CustomersPage(),
+          EmployeesPage(),
+          ReceiptsPage(),
         ],
       ),
     );
